@@ -1,7 +1,7 @@
 # Welcome to My GitHub Portfolio
 
 ## About Me
-Hi! I'm Benedict Han, a Web3 enthusiast with a background in marketing, business strategy, and blockchain research. My goal is to explore the potential of decentralized technologies and their impact on emerging markets. This GitHub serves as a showcase of my work, projects, and insights in the Web3 space.
+Hi! I'm xbneth, a Web3 enthusiast with a background in marketing, business strategy, and blockchain research. My goal is to explore the potential of decentralized technologies and their impact on emerging markets. This GitHub serves as a showcase of my work, projects, and insights in the Web3 space.
 
 ## What You'll Find Here
 This repository is dedicated to my personal analysis, research, and projects in the blockchain ecosystem. Key areas of focus include:
@@ -30,6 +30,6 @@ Through this GitHub, I aim to:
 
 ## Let's Connect
 If you're interested in discussing Web3, blockchain, or collaborating on a project, feel free to reach out:
-- **Email**: [benworkbiz@gmail.com](mailto:benworkbiz@gmail.com)
+- **X**: [xbneth](https://x.com/xbneth)
 
 Thanks for visiting my GitHub. Let’s build the decentralized future together!
